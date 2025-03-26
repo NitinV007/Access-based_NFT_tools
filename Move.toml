@@ -4,7 +4,7 @@ version = "1.0.0"
 authors = []
 
 [addresses]
-MyModule = 0xacb92db0e3af42ccac194cf1eb71d1d7b8c32f98e416b7a069a4709b3784a9c6
+MyModule = "0xacb92db0e3af42ccac194cf1eb71d1d7b8c32f98e416b7a069a4709b3784a9c6"
 
 [dev-addresses]
 
