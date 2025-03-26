@@ -58,7 +58,7 @@ This project is licensed under the MIT License.
 ## Contribution
 Feel free to open issues and contribute to this project by submitting pull requests!
 
-## 
+## Contract Address
 0xb85f5faf6dcdc03de02b0b32b7690f7263a2297ad92149f7a8908b4643094216
 
 ![image](https://github.com/user-attachments/assets/f0711fa0-7c0f-4816-8237-2834d5e8c9f6)
